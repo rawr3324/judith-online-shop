@@ -1,0 +1,4 @@
+Pewarnaan
+
+primary color: #FFF2F2
+secondary color:  #VA9B5DF
